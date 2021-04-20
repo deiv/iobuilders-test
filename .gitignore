@@ -1,0 +1,19 @@
+
+# eclipse project files
+.project
+.settings
+.classpath
+
+# idea project files
+.idea
+*.iml
+build
+
+# gradle project files
+gradle
+.gradle
+gradlew*
+
+# otros
+Thumbs.db
+
